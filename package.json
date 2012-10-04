@@ -3,4 +3,4 @@
   , "version"      : "0.1.0"
   , "dependencies" : { "amqp" : ">= 0.0.1" }
   , "private"      : true
-}
+}  
